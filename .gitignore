@@ -1,2 +1,15 @@
 /CODEX.md
 /codex.md
+
+# Build outputs
+/build/
+/cmake-build-*/
+
+# Runtime data
+/data/
+/logs/
+/media/
+
+# Frontend
+/web/node_modules/
+/web/dist/
